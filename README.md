@@ -2,7 +2,7 @@
 
 # Poker Hand Probability Calculator
 
-A high-performance poker hand probability calculator implemented in C++ and CUDA. This project explores various optimization techniques for both CPU and GPU implementations.
+A high-performance poker hand probability calculator implemented in C++ and CUDA. This project is based on an earlier version (https://github.com/mgavriliu/poker-probability.git) and it explores various optimization techniques for both CPU and GPU implementations. Compared to the original this version achieves as much as 100x performance.
 
 ## Features
 
